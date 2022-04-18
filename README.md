@@ -21,5 +21,5 @@ Contoh details indekos \
 Contoh dokumen non indekos \
 ![Dokumen non Indekos](https://user-images.githubusercontent.com/99194983/163855516-601d8de8-b967-41cc-a2c3-853c33eac617.png)
 
-Contoh dokumen indekos
+Contoh dokumen indekos \
 ![Dokumen Indekos](https://user-images.githubusercontent.com/99194983/163855605-3d7c3fb1-bfde-435f-8406-9af26ac2d259.png)
